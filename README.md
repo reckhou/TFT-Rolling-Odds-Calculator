@@ -1,7 +1,7 @@
 # TFT-Rolling-Odds-Calculator
 A calculator that provides the odds of hitting your units in TFT, made with very simple HTML and Chart.js
 
-Visit [here](https://wongkj12.github.io/TFT-Rolling-Odds-Calculator/).
+Visit [here](https://vastier.github.io/TFT-Rolling-Odds-Calculator/).
 
 **Update as of 26/11/23:** Set 10 bag sizes and shop odds. 22/20/17/10/9 for each cost, 13/13/13/13/8 distinct champions for each cost
 
